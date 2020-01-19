@@ -1,0 +1,29 @@
+a {
+    color: red;
+}
+a:first-of-type{
+    color: purple;
+}
+a:last-of-type{
+    color: darkorange;
+}
+h1:first-letter{
+    color: black;
+}
+header h1{
+    color: green;
+}
+section h1{
+    color: orange;
+}
+li {
+    color: rgb(233, 17, 89);
+}
+li:first-of-type{
+    color: black;
+}
+p ~ p{
+    color: burlywood;
+}
+
+

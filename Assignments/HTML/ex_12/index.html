@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Create User</title>
+    </head>
+    <body>
+        <h1>Create Use</h1>
+        <hr>
+        <form action="create_user.html" method="GET" enctype="application/x-www-form-urlencoded" >
+            <fieldset>
+                <legend>User Form</legend>
+                <br>
+                <br>
+                    <label>User Name:</label>
+                    <input type="text" name="Username" placeholder="Username" size="30" maxlength="12">
+                    <br>
+                    <br>
+                    <label>Password:</label>
+                    <input type="text" name="Password" placeholder="Password" size="30" maxlength="8">
+                    <br>
+                    <br>
+                    <label>Select your favourite Superheroes :</label>
+                    <input type="radio" name="Superheroes" value="true">Superman
+                    <input type="radio" name="Superheroes" value="true" checked="checked">Batman
+                    <input type="radio" name="Superheroes" value="false">Wonder Woman
+                    <input type="radio" name="Superheroes" value="false">Flash
+                    <input type="radio" name="Superheroes" value="false">Thor
+                    <input type="radio" name="Superheroes" value="false">Hulk
+                    <br>
+                    <br>
+                    Select your favourite video game :
+                    <input type="checkbox" name="videogames" value="Fifa" checked="checked" > Fifa
+                    <input type="checkbox" name="videogames" value="NHL" > NHL
+                    <input type="checkbox" name="videogames" value="Residen"> Residen Evil 
+                    <input type="checkbox" name="videogames" value="Uncharted" checked> Uncharted
+                    <br>
+                    <br>
+                    <input type="hidden" name="userid" value="2300">
+                    <input type="image" src="img/register_button.jpg" name="Login" height="40" width="200">
+            </fieldset>
+        </form>
+    </body>
+</html>
