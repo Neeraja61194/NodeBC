@@ -1,2 +1,2 @@
-# new_project
-JHave added REadME
+# Node BC
+Node JS Training
