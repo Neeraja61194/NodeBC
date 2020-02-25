@@ -8,4 +8,9 @@ const timeLeft = function(time){
     }
 }
 const id  = setInterval(timeLeft(time), 10000);
+
+/*  
+Ask the user to input the number of seconds that he would like to stay in our site
+Show how many seconds left he has using console.log()
+Once the session is over show the following message: */
         
