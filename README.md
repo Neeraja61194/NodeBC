@@ -1,6 +1,8 @@
 # Node BC
-Node JS Training by Com IT 
-Topics 
+Node JS Training by Com IT.
+
+Topics:
+
     1. Nodejs
     2. Express
     3. Git - Github
