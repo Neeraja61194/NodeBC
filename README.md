@@ -14,7 +14,6 @@ Topics:
     9. Databse Management - MongoDB, Mongoose
 
 
-Deleting Dev
 
 
 
