@@ -13,11 +13,6 @@ Topics:
     8. Browser API
     9. Databse Management - MongoDB, Mongoose
 
-Feat_1
-Feat_1
-Feat_1
-v
-Feat_1
 
 
 
